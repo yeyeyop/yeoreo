@@ -56,7 +56,7 @@ DELETE FROM TBL_USER2
 <!-- 회원관리 삭제 끝 -->
 
 
-<!-- 동행 게시판 시작  -->
+<!-- 동행 게시판 시작  --> 
 <select id ="testList" resultType="com.icia.web.model.Admin">
 SELECT a.HIBBS_SEQ as hiBbsSeq,
        a.USER_ID as userId,
